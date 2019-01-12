@@ -39,9 +39,9 @@
 
 1-1. ドラッグ&ドロップで "Assets.xcassets" に画像ファイルを入れる
 
-画像は [ここ](https://github.com/iosClassForBeginner/MoviePlayApp-jp/tree/master/icons) から取得してください。
+画像は [ここ](https://github.com/iosClassForBeginner/MoviePlayApp-jp/blob/master/icons.zip?raw=true) から取得してください。
 
-> <details><summary>How to add icons to the Assets folder</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/MoviePlayApp-jp/blob/master/gifs%2Bimgs/0.gif" /></div></details>
+> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/MoviePlayApp-jp/blob/master/gifs%2Bimgs/0.gif" /></div></details>
 
 ## 2, アプリをデザインする。
 
